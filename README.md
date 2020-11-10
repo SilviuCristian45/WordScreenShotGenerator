@@ -1,6 +1,6 @@
 # WordScreenShotGenerator
 
-I: In case you are a developer and you have python installed and docx python module.
+I: In case you are a developer and you have python installed and docx python module (pip install docx)
 1.Make sure screenshots and main.py are in the same folder.
 2.Copy your screenshots into screenshots folder 
 3.Open main.py
